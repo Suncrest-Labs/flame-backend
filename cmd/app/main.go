@@ -14,5 +14,5 @@ func main() {
 }
 
 func healthCheck(c *gin.Context) {
-	c.JSON(http.StatusOK, "")
+	c.Status(http.StatusOK)
 }
