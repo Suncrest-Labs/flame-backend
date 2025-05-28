@@ -1,4 +1,4 @@
-# 🔥 Flame Backend — Powering Decentralized SocialFi
+# ![flame-con](https://github.com/user-attachments/assets/385c8bf8-1077-4f22-a624-6bff1ce0ba52) Flame Backend — Powering Decentralized SocialFi
 
 **Flame Backend** is the high-performance **Go-based API service** that powers the Flame SocialFi platform. Built for Web3-native social interactions, it handles user authentication, content management, social features, gamification systems, and seamless integration with the Aztec Network for privacy-preserving transactions.
 
